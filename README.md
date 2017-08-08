@@ -2,7 +2,7 @@
 
 ## Qu'est ce que myLitlAgency ?
 
-**myLitLAgency** est un template pour la création d'un site web de ma propre *Web Agency*.
+**myLitLAgency** est un template pour la création du site web de ma *Web Agency*.
 
 Ce template sera donc utilisé afin de publier un site vitrine présentant l'activité ainsi que les services fournis par l'agence **FAERIC WEB**.
 
@@ -14,4 +14,4 @@ Ce site utilise les technos suivantes:
 
 ---
 
-Code with love by @Faeric
+Coded with love by @Faeric
